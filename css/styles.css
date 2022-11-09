@@ -186,7 +186,7 @@ body{
 .site-nav .link::after{
     content: "";
     position: absolute;
-    bottom: 0;
+    bottom: -2px;
     left: 0;
 
     display: block;
